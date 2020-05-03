@@ -5,4 +5,4 @@ RUN apk add imagemagick
 
 VOLUME workatom
 WORKDIR /work/samples
-COPY sample.pdf .
+COPY samples/sample1.pdf .
